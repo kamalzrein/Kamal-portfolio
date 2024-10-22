@@ -4,28 +4,30 @@ Welcome to my personal portfolio website! This site showcases some of my recent 
 
 ## Features
 - About Me: A brief overview of my educational background and experience.
-- Experience: A summary of some of the tools, technologies, and languages I work with.
 - Recent Projects: A selection of my latest works in Computer Science - specifically Software Development and Data Analysis.
-  - 1.Discord study bot
+  - 1.Discord study bot (In progress)
   - 2.Beap Engine (beapengine.come)
-  - 3.Star Farms
-  - 4.Vet Clinic
-  - 5.Spotify music gadget
-  - 6.Task Planner
+  - 3.Star Farms (complete)
+  - 4.Vet Clinic (complete)
+  - 5.Spotify music gadget (In progress)
+  - 6.Task Planner (complete)
+- Experience: A brief overview of my professional background.
+- Stack: A summary of some of the tools, technologies, and languages I work with.
 - Contact Me: A few of the methods I can be contacted.
 
 ## Upcoming Updates
-- Onboarding additional projects
-- Adding links to the repos of some of the existing projects after migrating them to github
+- Onboarding additional projects as they become ready. Some future planned projects include:
+  - 1.Personal password manager
+  - 2.Credit and GPA calculator
+- Adding links to the repositories of some of the projects after migrating them to github
 - More details on each project such as brief description and potentially a live demo
-- Additional sections highlighting my professional journey and blog posts.
+- Keep updating the professional experience section
 - Improved design and user experience.
-- Onboarding some of my professional experiences
   
 ## Technologies Used
-- HTML/CSS
+- HTML5/CSS
 - JavaScript
-- Github
+- Github pages
 
 ## Contact
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/kamalzrein).
